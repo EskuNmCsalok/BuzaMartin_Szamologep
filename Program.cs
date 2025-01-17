@@ -14,5 +14,9 @@ namespace MyApp
         static int kivonas(int a, int b){
             return a-b;
         }
+
+        static int osztas(int a, int b){
+            return a/b;
+        }
     }
 }
