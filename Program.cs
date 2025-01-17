@@ -18,5 +18,8 @@ namespace MyApp
         static int osztas(int a, int b){
             return a/b;
         }
+        static int szorzas(int a, int b){
+            return a*b;
+        }
     }
 }
