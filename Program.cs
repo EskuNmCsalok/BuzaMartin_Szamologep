@@ -21,5 +21,8 @@ namespace MyApp
         static int szorzas(int a, int b){
             return a*b;
         }
+        static int szazalek(int a, int b){
+            return a/b*100;
+        }
     }
 }
