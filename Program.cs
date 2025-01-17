@@ -10,5 +10,9 @@ namespace MyApp
         static int Osszeadas(int a, int b){
             return a+b;
         }
+
+        static int kivonas(int a, int b){
+            return a-b;
+        }
     }
 }
